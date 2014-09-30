@@ -1,6 +1,6 @@
 /*
  * 
- * Autor: Daniel Gutiérrez Lozano
+ * Autor: Daniel Gutiérrez
  * 30/09/2014
  *
  * Uninitialized variables values
